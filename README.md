@@ -28,3 +28,6 @@ or
 ./gradlew build
 java -jar ...
 ```
+
+* Tutorials - Building REST services with Spring
+https://spring.io/guides/tutorials/rest/
