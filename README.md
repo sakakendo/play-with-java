@@ -1,5 +1,5 @@
 
-* accessing-data-mysql
+* accessing-data-mysql  
 https://spring.io/guides/gs/accessing-data-mysql/
 
 ## requirements
@@ -29,5 +29,5 @@ or
 java -jar ...
 ```
 
-* Tutorials - Building REST services with Spring
+* Tutorials - Building REST services with Spring  
 https://spring.io/guides/tutorials/rest/
