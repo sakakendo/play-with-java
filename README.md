@@ -31,3 +31,13 @@ java -jar ...
 
 * Tutorials - Building REST services with Spring  
 https://spring.io/guides/tutorials/rest/
+
+* spring-thorough-introduction
+```
+docker-compose up -d
+./gradlew bootRun
+```
+
+* securing a web application
+https://spring.io/guides/gs/securing-web/
+
